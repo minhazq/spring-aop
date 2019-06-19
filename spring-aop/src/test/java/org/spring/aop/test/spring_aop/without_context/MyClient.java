@@ -6,6 +6,8 @@ import org.spring.aop.spring_aop.without_context.MyTargetInterface;
 import org.springframework.aop.framework.ProxyFactory;
 import org.springframework.aop.framework.ProxyFactoryBean;
 
+//Only Spring-aop dependency added
+
 //this one is the client using spring AOP without aspectJ framework
 public class MyClient {
 
